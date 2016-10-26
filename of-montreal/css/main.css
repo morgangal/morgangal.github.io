@@ -4,3 +4,6 @@ body {
 h1 {
   color: yellow;
 }
+.smaller-image {
+  width: 300px;
+}
