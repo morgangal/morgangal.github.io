@@ -76,9 +76,9 @@
   }
 
   p {
-    color: #000;
+    color: black;
     font-family: Verdana;
-    font-size: small;
+    font-size: 11px;
   }
 
   nav ul {
@@ -89,7 +89,7 @@
 
   h1 {
     font-family: Verdana;
-    color: #000;
+    color: black;
   }
 
   h2 {
@@ -100,7 +100,7 @@
 
   ol {
     font-family: Verdana;
-    font-size: small;
+    font-size: 11px;
   }
 
   /* Change the background color    */
