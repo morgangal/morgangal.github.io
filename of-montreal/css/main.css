@@ -97,6 +97,10 @@
     font-size: medium;
   }
 
+  ol {
+    font-family: Verdana;
+  }
+
   /* Change the background color    */
   /* of the header and footer below */
   #header, #footer {
