@@ -1,5 +1,8 @@
 h3, p, p.li {
   font-family: Verdana;
+  color: grey;
+  font-size: 14px;
+  text-align: left;
 }
 h3 {
       color: grey;
@@ -9,11 +12,6 @@ h3 {
   p a {
     color: grey;
     text-decoration: underline;
-    text-align: left;
-    font-size: 14px;
-  }
-  p {
-    color: grey;
     text-align: left;
     font-size: 14px;
   }
