@@ -105,7 +105,11 @@
     clear: left;
   }
 
-  
+  .disclaimer {
+    color: grey;
+    text-align: left;
+    font-size: 11px;
+  }
 
   /* Change the background color    */
   /* of the header and footer below */
